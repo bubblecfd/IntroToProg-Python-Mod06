@@ -17,15 +17,15 @@ replace some operations it performs to manage a \"ToDo list.\" The
 purpose is to use functions to better organize the Python code. Same in
 previous assignment 5, the \"ToDo list\" file contains two columns of
 data, \"Task\" and \"Priority" that are read into a Python Dictionary
-object. Each **dictionary object represents one row of data**, and these
-rows are added to a Python ***List* object to create a table of data.**
+object. Each dictionary object represents one row of data, and these
+rows are added to a Python List object to create a table of data.
 The script will be tested and run in both PyCharm and a Windows command
 shell as a console application.
 
 Editing and Debugging Code in PyCharm
 
 For this assignment, I created a new folder **C:\\\_PythonClass
-\\Assignment06. Then in PyCharm, I** created a new project that uses the
+\\Assignment06.** Then in PyCharm, I created a new project that uses the
 **C:\\\_PythonClass\\Assignment06** folder as its location, and added
 the Python template file **Assigment06\_Starter.py** under this project
 and renamed it to **Assigment06.py**. For this assignment, I added the
